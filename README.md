@@ -10,7 +10,7 @@ Also interested in a variety of services that solve problems.
 - 🧑🏻‍🏫 React Native online lecture [inflearn](https://www.inflearn.com/course/처음-배우는-리액트-네이티브?inst=9b10ea08)
 - 🧑🏻‍🏫 Offline lecture for beginners and non-engineers [review](https://github.com/Alchemist85K/Alchemist85K/blob/main/review-ko.md)
 - 💬 Consulting for a service or development [review](https://github.com/Alchemist85K/Alchemist85K/blob/main/review-ko.md)
-- 🧑🏻‍🏫 Translate a book named Full Stack Serverless to Korean (will be published soon) [O'Reilly](https://www.oreilly.com/library/view/full-stack-serverless/9781492059882/)
+- 📚 Translate a book named Full Stack Serverless to Korean (will be published soon) [O'Reilly](https://www.oreilly.com/library/view/full-stack-serverless/9781492059882/)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=white)
