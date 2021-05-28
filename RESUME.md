@@ -5,12 +5,12 @@
 
 | Company | Date  | Description |
 | --- | --- | --- |
-| SendBird  | 2015.08 ~ 2019.09  | Lead Software Engineer  |
-| 8Percent  | 2015.04 ~ 2015.07  |  Software Engineer |
-| Korea TCS  | 2014.07 ~ 2015.04  | Software Engineer |
-| wemadeinc  | 2013.12 ~ 2014.06  | Software Engineer |
-| Nongshim NDS | 2012.12 ~ 2013.09  | Software Engineer |
-| Trend&Talk  | 2011.11 ~ 2012.12  | co-founder and CTO |
+| [SendBird](https://github.com/Alchemist85K/Alchemist85K/blob/main/RESUME.md#sendbird-httpssendbirdcom)  | 2015.08 ~ 2019.09  | Lead Software Engineer  |
+| [8Percent](https://github.com/Alchemist85K/Alchemist85K/blob/main/RESUME.md#8percenthttps8percentkr)  | 2015.04 ~ 2015.07  |  Software Engineer |
+| [Korea TCS](https://github.com/Alchemist85K/Alchemist85K/blob/main/RESUME.md#korea-tcs)  | 2014.07 ~ 2015.04  | Software Engineer |
+| [wemadeinc](https://github.com/Alchemist85K/Alchemist85K/blob/main/RESUME.md#wemadeinc)  | 2013.12 ~ 2014.06  | Software Engineer |
+| [Nongshim NDS](https://github.com/Alchemist85K/Alchemist85K/blob/main/RESUME.md#nongshim-nds) | 2012.12 ~ 2013.09  | Software Engineer |
+| [Trend&Talk](https://github.com/Alchemist85K/Alchemist85K/blob/main/RESUME.md#trendtalk)  | 2011.11 ~ 2012.12  | co-founder and CTO |
 
 #### SendBird (https://sendbird.com)
 - Audio/Video Call SDK
