@@ -81,7 +81,7 @@
 - LikeLion
     - Programming education program for non-major college students
     - In charge of teaching Konkuk University and Sejong University (LikeLion 2nd: 2014.06 ~ 2014.10)
-    - In charge of managing and operating (LikeLion 3rd: 2015.03 ~ 2015.10)
+    - In charge of managing (LikeLion 3rd: 2015.03 ~ 2015.10)
   
   
 #### 🏆 Award
