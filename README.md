@@ -16,6 +16,8 @@
 ![Python](https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=Django&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-e47911?style=flat-square&logo=amazon-AWS&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=MySQL&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-bea493?style=flat-square&logo=Mocha&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C03B14?style=flat-square&logo=Jest&logoColor=white)
 
