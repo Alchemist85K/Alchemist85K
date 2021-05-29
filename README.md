@@ -26,4 +26,4 @@ Also interested in a variety of services that solve problems.
 ![Jest](https://img.shields.io/badge/Jest-C03B14?style=flat-square&logo=Jest&logoColor=white)
 
 ### 📫 Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alchemist85k@gmail.com)](mailto:alchemist85k@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alchemist85k@gmail.com)](mailto:alchemist85k@gmail.com)
