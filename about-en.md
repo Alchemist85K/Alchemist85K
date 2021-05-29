@@ -24,7 +24,7 @@
     - Led the project
     - Design and implementations 
     - [npm blog](https://blog.npmjs.org/post/172386391335/customer-convos-sendbird.html)
-    - ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-bea493?style=flat-square&logo=Mocha&logoColor=white) ![Karma](https://img.shields.io/badge/Karma-41BFAE?style=flat-square&logo=karma&logoColor=white) ![Chai](https://img.shields.io/badge/Chai-F7EED8?style=flat-square&logo=chai&logoColor=white) ![BrowserStack](https://img.shields.io/badge/BrowserStack-142433?style=flat-square&logo=BrowserStack&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white)
+    - ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-bea493?style=flat-square&logo=Mocha&logoColor=white) ![Karma](https://img.shields.io/badge/Karma-41BFAE?style=flat-square&logo=karma&logoColor=white) ![Chai](https://img.shields.io/badge/Chai-F7EED8?style=flat-square&logo=chai&logoColor=black) ![BrowserStack](https://img.shields.io/badge/BrowserStack-142433?style=flat-square&logo=BrowserStack&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white)
 - API
     - API for using SendBird server and feature
     - Design and implementations
@@ -32,7 +32,7 @@
 - Desk project SDK
     - Chat solution for customer consultation
     - Design and implementations
-    -  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-bea493?style=flat-square&logo=Mocha&logoColor=white) ![Karma](https://img.shields.io/badge/Karma-41BFAE?style=flat-square&logo=karma&logoColor=white) ![Chai](https://img.shields.io/badge/Chai-F7EED8?style=flat-square&logo=chai&logoColor=white) ![BrowserStack](https://img.shields.io/badge/BrowserStack-142433?style=flat-square&logo=BrowserStack&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white)
+    -  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-bea493?style=flat-square&logo=Mocha&logoColor=white) ![Karma](https://img.shields.io/badge/Karma-41BFAE?style=flat-square&logo=karma&logoColor=white) ![Chai](https://img.shields.io/badge/Chai-F7EED8?style=flat-square&logo=chai&logoColor=black) ![BrowserStack](https://img.shields.io/badge/BrowserStack-142433?style=flat-square&logo=BrowserStack&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white)
 -  Nexon Streaming Chat Project
     -  Implementations chatting for game contest broadcasts in a similar as Twitch
         -  Support Browser: IE7+, Modern Browser(ex. Chrome)
