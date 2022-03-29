@@ -1,9 +1,5 @@
 ## Beomjun Kim - full stack software engineer
-  
-I like to make something and to teach someone.  
-Also interested in a variety of services that solve problems.  
-
-  
+    
 ### 🧑🏻‍💻 Experience
 - 💻 Various company and projects experiences [detail](https://github.com/Alchemist85K/Alchemist85K/blob/main/about-en.md)
 - 📚 Wrote a book on React Native [yes24](http://www.yes24.com/Product/Goods/97163575) [aladin](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=262548791) [kyobobook](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162243879&orderClick=LEa&Kc=)
