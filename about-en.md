@@ -85,9 +85,9 @@
 - Open Source
     - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) :: Fixed a bug about the scroll function [link](https://github.com/FaridSafi/react-native-gifted-chat/pull/53/files)
     - [django-allauth](https://github.com/pennersr/django-allauth) :: Added max_length setting attribution for utf8mb4 database [link](https://github.com/pennersr/django-allauth/pull/1387/files)
-- Lecture
-    - React Native online lecture [inflearn](https://www.inflearn.com/course/처음-배우는-리액트-네이티브?inst=9b10ea08)
-    - Offline lecture for beginners and non-engineers [review](https://github.com/Alchemist85K/Alchemist85K/blob/main/review-ko.md)
+- Course
+    - React Native online course [inflearn](https://www.inflearn.com/course/처음-배우는-리액트-네이티브?inst=9b10ea08)
+    - Offline course for beginners and non-engineers [review](https://github.com/Alchemist85K/Alchemist85K/blob/main/review-ko.md)
     - Consulting for a service or development [review](https://github.com/Alchemist85K/Alchemist85K/blob/main/review-ko.md)
 - LikeLion
     - Programming education program for non-major college students
