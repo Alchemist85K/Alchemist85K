@@ -80,8 +80,8 @@
   
 ### 🚀 Activities
 - Books
-    - Wrote a book on React Native [yes24](http://www.yes24.com/Product/Goods/97163575) [aladin](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=262548791) [kyobobook](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162243879&orderClick=LEa&Kc=)
-    - Translate a book named [Full Stack Serverless(O'Reilly)](https://www.oreilly.com/library/view/full-stack-serverless/9781492059882/) to Korean [yes24](http://www.yes24.com/Product/Goods/102277870?OzSrank=1) [aladin](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273792606) [kyobobook](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162244487&orderClick=LAG&Kc=)
+    - Wrote a book about React Native [yes24](http://www.yes24.com/Product/Goods/97163575) [aladin](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=262548791) [kyobobook](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162243879&orderClick=LEa&Kc=)
+    - Translated a book titled [Full Stack Serverless(O'Reilly)](https://www.oreilly.com/library/view/full-stack-serverless/9781492059882/) to Korean [yes24](http://www.yes24.com/Product/Goods/102277870?OzSrank=1) [aladin](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273792606) [kyobobook](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162244487&orderClick=LAG&Kc=)
 - Open Source
     - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) :: Fixed a bug about the scroll function [link](https://github.com/FaridSafi/react-native-gifted-chat/pull/53/files)
     - [django-allauth](https://github.com/pennersr/django-allauth) :: Added max_length setting attribution for utf8mb4 database [link](https://github.com/pennersr/django-allauth/pull/1387/files)
