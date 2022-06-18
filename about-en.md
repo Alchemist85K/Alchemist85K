@@ -5,7 +5,7 @@
 
 | Company | Date  | Description |
 | --- | --- | --- |
-| freelancer  | 2019.10 ~   | Full-Stack Software Engineer |
+| [freelancer](https://github.com/Alchemist85K/Alchemist85K/blob/main/about-en.md#freelancer)  | 2019.10 ~   | Full-Stack Software Engineer |
 | [SendBird](https://github.com/Alchemist85K/Alchemist85K/blob/main/RESUME.md#sendbird-httpssendbirdcom)  | 2015.08 ~ 2019.09  | Lead Software Engineer  |
 | [8Percent](https://github.com/Alchemist85K/Alchemist85K/blob/main/RESUME.md#8percenthttps8percentkr)  | 2015.04 ~ 2015.07  |  Senior Software Engineer |
 | [Korea TCS](https://github.com/Alchemist85K/Alchemist85K/blob/main/RESUME.md#korea-tcs)  | 2014.07 ~ 2015.04  | Lead Software Engineer |
